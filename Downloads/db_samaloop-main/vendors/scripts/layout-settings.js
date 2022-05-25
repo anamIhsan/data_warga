@@ -187,7 +187,7 @@
 			location.reload();
 		});
 
-		
+
 
 	});
 
